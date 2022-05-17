@@ -6,7 +6,7 @@
             <title>Version 1.0.5</title>
             <description>Mindre fejlrettelser.</description>
             <pubDate>Thu, 28 Apr 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.foresight.bookingapp" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.foresight.bookingapp" sparkle:version="1.0.5" sparkle:os="android" />
         </item>
     </channel>
 </rss>
