@@ -3,10 +3,10 @@
     <channel>
         <title>Bookingapp - Appcast</title>
         <item>
-            <title>Version 1.0.8</title>
-            <description>Fejlrettelser.</description>
-            <pubDate>Tue, 18 May 2022 24:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.foresight.bookingapp" sparkle:version="1.0.8" sparkle:os="android" />
+            <title>Version 1.0.9</title>
+            <description>Fixed wrong time format.</description>
+            <pubDate>Thu, 19 May 2022 02:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.foresight.bookingapp" sparkle:version="1.0.9" sparkle:os="android" />
         </item>
     </channel>
 </rss>
